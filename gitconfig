@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stephen.w.choo@gmail.com
+	name = Stephen Choo
